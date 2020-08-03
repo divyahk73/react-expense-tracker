@@ -1,2 +1,2 @@
-# react-expenses-tracer
+# react-expense-tracker
 Created with CodeSandbox
